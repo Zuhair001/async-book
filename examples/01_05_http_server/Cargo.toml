@@ -15,4 +15,4 @@ tokio = { version = "0.2", features = ["full"] }
 
 # (only for testing)
 failure = "0.1.6"
-reqwest = "0.9.24"
+request = "0.9.24"
